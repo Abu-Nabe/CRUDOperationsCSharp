@@ -7,7 +7,7 @@ namespace BackendAPI.SqlConnection
 	{
         public MySqlConnection _connection;
         // Hard code key is not essential, but to save time
-        public readonly string _connectionString = "Server=114.29.236.224;Database=taskDB;User=root;Password=aa14aa14Aaa14aa14A;";
+        public readonly string _connectionString = "removed";
 
         public Connect()
         {
