@@ -19,9 +19,9 @@ namespace BackendAPI.RealTime
             };
 
             var pusher = new Pusher(
-              "1683234",
-              "b29bc0ca1c5f33d478f8",
-              "98e94ae70ba1a949a1cc",
+              "hidden",
+              "hidden",
+              "hidden",
               options);
 
             // sends the message
